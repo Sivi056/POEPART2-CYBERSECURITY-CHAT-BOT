@@ -22,4 +22,4 @@ Cybersecurity Awareness Chatbot
 
 1. **Clone the Repository**:
    ```bash
-   git clone https:
+   git clone https:https://github.com/Sivi056/POEPART2-CYBERSECURITY-CHAT-BOT.git
